@@ -5,6 +5,6 @@
 #ifndef GAME_H
 #define GAME_H
 
-#define GamePackageName "cn.ten10.games.tenw"
+#define GamePackageName "com.tencent.tmgp.cf"
 
 #endif //GAME_H
